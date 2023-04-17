@@ -1,4 +1,4 @@
-# Wine-Shoppe-Transactions - TASKS
+# Wine-Shop-Transactions - TASKS
 
 Employed Python to use K-means clustering to explore the dataset of 6000 transaction from a wine shoppe. 
 
